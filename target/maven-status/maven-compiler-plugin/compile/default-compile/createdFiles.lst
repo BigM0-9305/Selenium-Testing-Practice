@@ -1,0 +1,9 @@
+com\practice\seleniumtesting\functionaltesting\basicaction\BasicCommandClass.class
+com\practice\seleniumtesting\functionaltesting\thankyou\ThankYouPage.class
+com\practice\seleniumtesting\functionaltesting\endtoend\ClasssicEndToEndFunctionalTesting.class
+com\practice\seleniumtesting\functionaltesting\overview\FinalOverviewPage.class
+com\practice\seleniumtesting\functionaltesting\login\LoginPage.class
+com\practice\seleniumtesting\functionaltesting\checkout\CheckingOutPage.class
+com\practice\seleniumtesting\functionaltesting\products\ProductsPage.class
+com\practice\seleniumtesting\functionaltesting\endtoend\EndToEndFunctionalTest.class
+com\practice\seleniumtesting\functionaltesting\cart\CartPage.class

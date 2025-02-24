@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-24T14:41:01 IST" name="Suite" finished-at="2025-02-24T14:41:10 IST" duration-ms="9347">
+    <groups>
+    </groups>
+    <test started-at="2025-02-24T14:41:01 IST" name="Test" finished-at="2025-02-24T14:41:10 IST" duration-ms="9347">
+      <class name="com.practice.seleniumtesting.testcases.StartToFinish">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.practice.seleniumtesting.testcases.StartToFinish@61df66b6]" started-at="2025-02-24T14:41:01 IST" name="launchApplication" finished-at="2025-02-24T14:41:03 IST" duration-ms="2091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="startToFinish()[pri:0, instance:com.practice.seleniumtesting.testcases.StartToFinish@61df66b6]" started-at="2025-02-24T14:41:03 IST" name="startToFinish" finished-at="2025-02-24T14:41:05 IST" duration-ms="2070" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startToFinish -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:com.practice.seleniumtesting.testcases.StartToFinish@61df66b6]" started-at="2025-02-24T14:41:05 IST" name="closeApplication" finished-at="2025-02-24T14:41:10 IST" duration-ms="5133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.practice.seleniumtesting.testcases.StartToFinish -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
